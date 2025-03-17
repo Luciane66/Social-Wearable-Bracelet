@@ -1,7 +1,6 @@
 #include <Adafruit_CircuitPlayground.h>
 
 // ----- Melody for "Ayers Rock" from Top Gear 2 -----
-// Approximated melody starting at about 17 seconds into the original song.
 // (Frequencies in Hz and note durations in milliseconds)
 
 //alternative song for positive response
